@@ -170,6 +170,7 @@ namespace WebApplication1
             txtTienTraLai.ReadOnly = true;
             txtTongCong.ReadOnly = true;
             //Test
+            //Test 2
 
             
         }
